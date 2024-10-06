@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\bin\Debug\net8.0\PR8_Kurs3.exe
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\bin\Debug\net8.0\PR8_Kurs3.deps.json
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\bin\Debug\net8.0\PR8_Kurs3.runtimeconfig.json
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\bin\Debug\net8.0\PR8_Kurs3.dll
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\bin\Debug\net8.0\PR8_Kurs3.pdb
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\obj\Debug\net8.0\PR8_Kurs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\obj\Debug\net8.0\PR8_Kurs3.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\obj\Debug\net8.0\PR8_Kurs3.AssemblyInfo.cs
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\obj\Debug\net8.0\PR8_Kurs3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\obj\Debug\net8.0\PR8_Kurs3.dll
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\obj\Debug\net8.0\refint\PR8_Kurs3.dll
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\obj\Debug\net8.0\PR8_Kurs3.pdb
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\obj\Debug\net8.0\PR8_Kurs3.genruntimeconfig.cache
+C:\Users\admin\source\repos\PR8_Kurs3\PR8_Kurs3\obj\Debug\net8.0\ref\PR8_Kurs3.dll
